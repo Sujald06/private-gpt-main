@@ -215,7 +215,7 @@ This project is licensed under the **Apache 2.0 License**.
 
 ## 👨‍💻 Author
 
-Developed by **Zylon AI** and the open-source community.
+Developed by **Sujal Deshmukh** and the open-source community.
 
 ---
 
