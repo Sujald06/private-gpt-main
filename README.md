@@ -187,26 +187,6 @@ make check
 make test
 ```
 
----
-
-## 📚 Documentation
-
-Official Documentation:
-[PrivateGPT Docs](https://docs.privategpt.dev/?utm_source=chatgpt.com)
-
-GitHub Repository:
-[PrivateGPT GitHub Repository](https://github.com/zylon-ai/private-gpt?utm_source=chatgpt.com)
-
----
-
-## 🌟 Support & Community
-
-* 💬 Discord Community
-* 🐦 Twitter/X Updates
-* ⭐ Star the Repository
-
----
-
 ## 📜 License
 
 This project is licensed under the **Apache 2.0 License**.
